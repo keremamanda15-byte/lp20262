@@ -1,1 +1,7 @@
 
+def q1()
+num1= inteiro (entrada(digite um mc:))
+num2 = inteiro(entrada('outro digital:))
+adiçao= mum 1 + num2
+se edicao > 10:
+imprimir {f' num1+num2}+adicao}')
