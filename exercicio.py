@@ -38,6 +38,22 @@ def q4():
     #6. Faça um programa que leia um número inteiro e imprima o seu
 #   antecessor e o seu sucessor.
 
+def questao_6()
+num= int(input("digite um numero inteiro:"))
+print(f"\nAntecessor de {num}:{num-1}")
+print(F"sucessor de {num}:{num+1}")
+
+ def questao-7
+nome_input("Digite seu nome:"). title(). strip()
+endereco_input("Digite seu endereço:")
+telefone= input("Digite seu telefone:")
+
+print(f"\nNome:{nome}|endereço:{endereço}\nTelefone}")
+
+def questao-8
+ 
+
+
 
 
 
