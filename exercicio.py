@@ -36,7 +36,7 @@ def q4():
     q5()
     
     #6. Faça um programa que leia um número inteiro e imprima o seu
-#   antecessor e o seu sucessor.
+#   antecessor e o seu sucessor. 
 
 def questao_6()
 num= int(input("digite um numero inteiro:"))
