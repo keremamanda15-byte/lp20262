@@ -52,7 +52,7 @@ print(f"\nNome:{nome}|endereço:{endereço}\nTelefone}")
 
 def questao-8
  
-
+l
 
 
 
