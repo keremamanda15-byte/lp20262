@@ -178,7 +178,7 @@ def questao_11():
 def questao_12():
     num = float(input("Digite um número real: "))
 
-    print(f"\nQuadrado do valor {num}: {num*num}")
+    print (f"\nQuadrado do valor {num}: {num*num}")
 
 # questao_12()
 
